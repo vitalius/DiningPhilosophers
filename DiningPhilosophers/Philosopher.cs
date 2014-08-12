@@ -71,7 +71,7 @@ namespace DiningPhilosophers
                     {
                         FoodCount--;
                         State = PhilosopherState.Eating;
-                        Console.WriteLine("{0} eating; {1} food", Id, FoodCount);
+                        Console.WriteLine("{0} eating; {1} food left", Id, FoodCount);
                         Thread.Sleep(EatMs);
 
                         // release forks after eating
@@ -106,7 +106,7 @@ namespace DiningPhilosophers
                 return;
 
             State = PhilosopherState.Thinking;
-            Console.WriteLine("{0} thinking; {1} food", Id, FoodCount);
+            Console.WriteLine("{0} thinking", Id);
             Thread.Sleep(ThinkMs);
         }
     }
