@@ -7,5 +7,4 @@ DiningPhilosophers
  
  http://en.wikipedia.org/wiki/Dining_philosophers_problem
  
- 
-![Screen shot](/../DiningPhilosophers/sshot.png?raw=true "Screen shot")
+![Screen shot](https://raw.githubusercontent.com/vitalius/DiningPhilosophers/master/sshot.png "Screen shot")
