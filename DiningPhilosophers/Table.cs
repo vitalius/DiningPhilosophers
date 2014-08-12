@@ -47,7 +47,7 @@ namespace DiningPhilosophers
         /// </summary>
         public void Run()
         {
-            Console.WriteLine("Philosophers {0}  Forks {0}", 
+            Console.WriteLine("Philosophers {0}  Forks {1}", 
                 threads.Count(), forks.Count());
 
             foreach (var t in threads)
