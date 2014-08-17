@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiningPhilosophers", "DiningPhilosophers\DiningPhilosophers.csproj", "{0D5C5633-70C0-4743-ACC2-E0039BDE8F3F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiningPhilosophers", "DiningPhilosophers\DiningPhilosophers.csproj", "{B98A23BD-1BB6-4CAC-B6FA-7A3A08C1D3C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0D5C5633-70C0-4743-ACC2-E0039BDE8F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0D5C5633-70C0-4743-ACC2-E0039BDE8F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0D5C5633-70C0-4743-ACC2-E0039BDE8F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0D5C5633-70C0-4743-ACC2-E0039BDE8F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B98A23BD-1BB6-4CAC-B6FA-7A3A08C1D3C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B98A23BD-1BB6-4CAC-B6FA-7A3A08C1D3C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B98A23BD-1BB6-4CAC-B6FA-7A3A08C1D3C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B98A23BD-1BB6-4CAC-B6FA-7A3A08C1D3C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
