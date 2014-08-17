@@ -61,8 +61,8 @@ namespace DiningPhilosophers
 
             // activity timers
             Random rnd = new Random((int)DateTime.Now.Ticks + id);
-            ThinkMs = rnd.Next(100, 500);
-            EatMs = rnd.Next(100, 500);
+            ThinkMs = rnd.Next(1000, 5000);
+            EatMs = rnd.Next(1000, 5000);
             FoodCount = rnd.Next(10, 30);
 
             // ui
